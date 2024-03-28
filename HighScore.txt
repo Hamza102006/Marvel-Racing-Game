@@ -1,0 +1,5 @@
+4
+Player #1 has 110 points.
+Player #2 has 110 points.
+Player #3 has 110 points.
+Player #4 has 110 points.
